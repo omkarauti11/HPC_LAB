@@ -1,0 +1,9 @@
+Create Virtual Env
+python3 -m venv myenv
+
+
+Activate Virtual Env
+source myenv/bin/activate
+
+
+

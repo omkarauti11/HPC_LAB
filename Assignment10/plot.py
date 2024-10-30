@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 
 # Sample data (replace with your actual results)
-process_counts = [2, 4, 6]
-times = [0.096738, 0.076443, 0.066525]
+process_counts = [2, 4, 8]
+times = [0.064799, 0.393157, 0.49700]
 
 plt.plot(process_counts, times, marker='o', linestyle='-', color='b')
 plt.xlabel('Number of Processes')
